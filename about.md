@@ -7,18 +7,18 @@ layout: page
 
 ## Hello and Welcome!
 
-I'm thrilled you're here! My name is Pooja Khanal, and I hail from the beautiful and diverse country of Nepal. Professionally, I've carved a niche for myself as a Software QA Engineer, where I merge my analytical skills with my passion for technology. But beyond the codes and test cases, there's another side to me that craves adventure and exploration.
+I'm thrilled you are here! My name is Pooja Khanal, and I hail from the beautiful and diverse country of Nepal. Professionally, I've carved a niche for myself as a Software Quality Assurance Engineer, where I merge my analytical skills with my passion for technology. But beyond the codes and test cases, there's another side to me that craves adventure and exploration - within myself and the world. 
 
 ### My Passion for Travel
 
-Travel is not just a hobby for me; it's a way of life. I've always been mesmerized by the vastness and variety of our planet. My greatest adventure so far? Exploring 32 national parks across the United States. Each park has its own unique story, and wandering through them has given me a deeper appreciation for nature's wonders. From the serene landscapes to the thrilling wildlife encounters, these journeys have been nothing short of transformative.
+Travel is not just a hobby for me; it is a profound way of life. The vastness and variety of our planet continually captivates me. Whether I am traversing the majestic Himalayas or discovering the pristine beauty of US national parks, each journey deepens my affection for the world. The serene landscapes and thrilling wildlife encounters have been transformative, each adventure weaving its unique narrative into the tapestry of my life.
 
 
 ### Why I Write
 
-This website is a canvas for my dual passions: technology and travel. It's a place where I share my experiences, insights, and stories. I believe that through sharing, we not only relive our adventures but also inspire others to explore their own paths.
+Welcome to my little space on the internet—a place where my love for technology, travel, and literature comes together. This website is my way of sharing the experiences and insights that have touched my life. I believe that by sharing our stories, we not only revisit our own adventures but also encourage others to begin their own.
 
-So, whether you're here for tech insights or travel tales, I hope you find something that resonates with you. Let's embark on this journey together, discovering new places, new technologies, and new perspectives!
+Whether you're here for insights into the latest tech, to read about far-off places, or to explore different perspectives through stories, I hope you find something that resonates. Let's journey together, discovering new technologies, places, and ideas along the way. 
 
 
 <!-- <h2>Skills</h2>
