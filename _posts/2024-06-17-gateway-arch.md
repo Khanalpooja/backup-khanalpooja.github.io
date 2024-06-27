@@ -1,3 +1,16 @@
+title: "Gateway Arch National Park"
+layout: post
+date: 2024-06-27 10:48
+image: /assets/images/gateway_arch.jpg
+headerImage: false
+tag:
+- intro
+- beginning
+category: blog
+author: pooja
+description: Gateway Arch National Park
+---
+
 
 Gateway Arch National Park 
 I had an intriguing experience visiting Gateway Arch National Park in Feb 2023, which got me thinking about the nature of national parks. Typically, I expect national parks to be vast expanses of natural beauty, but Gateway Arch had a different vibe with its profound historical significance.
