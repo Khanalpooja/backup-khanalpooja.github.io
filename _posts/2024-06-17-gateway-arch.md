@@ -47,12 +47,13 @@ We indulged in a variety of delicious foods over the weekend:
 
 ## Travel Route
 [Google Maps Route](https://maps.app.goo.gl/G55XeaFKpyRSQZ4x9)
+We drove about 21 hours ;) 
 
 ## Ease of Visit
 The park is straightforward to visit and doesn't require much planning, making it ideal for those looking to quickly tick it off their list of national parks.
 
 ## Season and Driving Conditions
-While we visited in February and the park is accessible year-round, adding a trip to the Ozarks is best in the summer to avoid severe weather.
+While we visited in February and the park is accessible year-round, adding a trip to the Ozarks is best in the summer.
 
 ## Final Thoughts
 While Gateway Arch may feel more like a national monument than a park, the experience is unique and memorable. For anyone planning a visit, I highly recommend integrating other activities or visits into your itinerary, as the mix of zoo visits, catching up with friends, and touring significant local landmarks made for a fulfilling, albeit tiring, weekend.
