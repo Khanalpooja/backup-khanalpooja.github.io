@@ -27,6 +27,7 @@ Here's how the weekend unfolded:
 - **Saturday:** More exploration in St. Louis, including a visit to the exceptional free-entry zoo, featuring a memorable encounter with a polar bear. Meet some friends for breakfast, then drove to Fulton, MO. The drive was approximately 2 hours. Picked up our friends and went to explore Jefforson City, MO. 
 - **Sarurday Night:** Enjoyed homecooked biryani (two versions by two friends), had awesome margaritas, just had overall fun. 
 - **Sunday:** Drove to Edwardsville,IL after breakfast. Then back home to Knoxville, TN. We reached home after dark. 
+- **Sunday Night:** Got rest for work the next day. 
 
 ## What I Missed
 Despite being an optimistic planner, time constraints prevented a visit to the Ozarks. However, I managed to visit it later in another trip. 

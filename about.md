@@ -7,18 +7,16 @@ layout: page
 
 ## Hello and Welcome!
 
-I'm thrilled you are here! My name is Pooja Khanal, and I hail from the beautiful and diverse country of Nepal. Professionally, I've carved a niche for myself as a Software Quality Assurance Engineer, where I merge my analytical skills with my passion for technology. But beyond the codes and test cases, there's another side to me that craves adventure and exploration - within myself and the world. 
+I'm thrilled you are here! My name is Pooja Khanal, I live in the United States but I come from the beautiful and diverse country of Nepal. As a Software Engineer, I combine my analytical skills with a deep passion for technology. However, beyond my professional life, I am driven by a profound desire for adventure and exploration—both within and around the world. This website is where I share the experiences and insights that have shaped me. 
 
-### My Passion for Travel
+Whether you're here to dive into the latest tech developments, read about remote places, or explore different perspectives through stories, I hope you find something that resonates. Let's journey together, discovering new technologies, places, and ideas along the way. 
 
-Travel is not just a hobby for me; it is a profound way of life. The vastness and variety of our planet continually captivates me. Whether I am traversing the majestic Himalayas or discovering the pristine beauty of USA's national parks, each journey deepens my affection for the world. The serene landscapes and thrilling wildlife encounters have been transformative, each adventure weaving its unique narrative into the tapestry of my life.
+### My Passion for Travel and Writing
 
+Travel for me is more than a hobby; it's a way of life. The vastness and variety of our planet captivate me endlessly. From the majestic Himalayas to the pristine beauty of America's national parks, each journey deepens my affection for the world. The serene landscapes and thrilling wildlife encounters are transformative, each adventure weaving its unique narrative into my life's tapestry.
 
-### Why I Write
+Traveling sparks a cascade of thoughts and emotions as I meet new people and explore different landscapes. These encounters, whether with nature or individuals from various backgrounds, broaden my perspective and inspire me to capture these moments through writing.  I write not just about the places I visit but also about the life experiences and subtle observations that resonate with me deeply. Sharing our stories not only allows us to reflect on our experiences but also inspires others to embark on their own adventures.
 
-Welcome to my little space on the internet— a place where my love for technology, travel, and literature comes together. This website is my way of sharing the experiences and insights that have touched my life. I believe that by sharing our stories, we not only revisit our own adventures but also encourage others to begin their own.
-
-Whether you're here for insights into the latest tech, to read about far-off places, or to explore different perspectives through stories, I hope you find something that resonates. Let's journey together, discovering new technologies, places, and ideas along the way. 
 
 
 <!-- <h2>Skills</h2>
