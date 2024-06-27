@@ -7,38 +7,35 @@ image: /assets/images/gateway_arch.jpg
 headerImage: true
 tag:
 - travel
-- weekend trips
+- weekend trips 
+- friends
 category: blog
 author: pooja
 description: Gateway Arch National Park
 ---
 
+In February 2023, we visited Gateway Arch National Park, and it left me with mixed feelings. While I typically look forward to exploring vast natural landscapes in national parks, Gateway Arch presented a stark contrast with its historical and architectural focus. Initially, I wasn't sure if it met my expectations of what a national park should be. However, having friends with me made the experience much more enjoyable. Their company transformed the visit into a fun and memorable adventure, helping me appreciate the unique qualities of the park in a new light. It was a reminder that sometimes, it’s the people you're with who make all the difference in how you experience a place. 
+So, rather than focusing on just the national park, this trip was dual-purpose for me, catch up with friends while also visiting a national park. And I must say, it was a very hectic but fulfilling weekend. 
 
-## Introduction
-I had an intriguing experience visiting Gateway Arch National Park in February 2023, which prompted me to reflect on the nature of national parks. Unlike the vast expanses of natural beauty typically associated with national parks, Gateway Arch offers a unique vibe with its profound historical significance.
+Here's how the weekend unfolded:
 
-## Ease of Visit
-The park is straightforward to visit and doesn't require much planning, making it ideal for those looking to quickly tick it off their list of national parks.
-
-## Itinerary Details
-My trip was dual-purpose: I aimed to visit all the U.S. national parks and also catch up with friends in various parts of Missouri. Here's how my weekend unfolded:
-
-- **Thursday Afternoon:** Worked in office until about 4 PM, then drove approximately 7.5 hours to Edwardsville, IL, with my husband.
-- **Thursday Night:** Arrived at our friend's place around 11 PM, enjoyed a home-cooked dinner, and watched a 2-hour movie.
-- **Friday:** Worked remotely until 4 PM CDT, then officially started our weekend adventure.
-
-## Weekend Adventure
-- **Saturday:** Explored St. Louis, visiting Gateway Arch and taking the tram up for breathtaking views and historical insights. Despite the crowd and cramped conditions, the $15 tram fee was well worth it.
-- **Saturday Evening:** Celebrated a friend's birthday, adding a festive note to our journey.
-- **Sunday:** More exploration in St. Louis, including a visit to the exceptional free-entry zoo, featuring a memorable encounter with a polar bear.
+- **Thursday Afternoon:** Worked in office until about 4 PM EST, then drove approximately 7.5 hours to Edwardsville, IL, with my husband.
+- **Thursday Night:** Arrived at our friend's place around 11 PM, enjoyed a home-cooked dinner, and watched a 2-hour movie. Kudos to my energy level. 
+- **Friday:** Worked remotely until 4 PM CDT, then officially started our weekend adventure. During the day, we were eating delicious homemade donuts and coffee for breakfast and rice and curry for lunch. 
+- **Friday Evening:** Explored St. Louis, visiting Gateway Arch and taking the tram up for breathtaking views and historical insights. Also explored the museum at the national park. Despite the crowd and cramped conditions, the $15 tram fee was well worth it.
+- **Friday Night:** Celebrated a friend's birthday, adding a festive note to our journey. 
+- **Saturday:** More exploration in St. Louis, including a visit to the exceptional free-entry zoo, featuring a memorable encounter with a polar bear. Meet some friends for breakfast, then drove to Fulton, MO. The drive was approximately 2 hours. Picked up our friends and went to explore Jefforson City, MO. 
+- **Sarurday Night:** Enjoyed homecooked biryani (two versions by two friends), had awesome margaritas, just had overall fun. 
+- **Sunday:** Drove to Edwardsville,IL after breakfast. Then back home to Knoxville, TN. We reached home after dark. 
 
 ## What I Missed
-Despite being an optimistic planner, time constraints prevented a visit to the Ozarks.
+Despite being an optimistic planner, time constraints prevented a visit to the Ozarks. However, I managed to visit it later in another trip. 
 
 ## Culinary Highlights
 We indulged in a variety of delicious foods over the weekend:
 - Homemade biryanis and margaritas
 - Freshly made momo
+- Homemade Donuts and Coffee
 - Street-style pizza
 - Rich, comforting Lakota Coffee
 
@@ -50,6 +47,9 @@ We indulged in a variety of delicious foods over the weekend:
 
 ## Travel Route
 [Google Maps Route](https://maps.app.goo.gl/G55XeaFKpyRSQZ4x9)
+
+## Ease of Visit
+The park is straightforward to visit and doesn't require much planning, making it ideal for those looking to quickly tick it off their list of national parks.
 
 ## Season and Driving Conditions
 While we visited in February and the park is accessible year-round, adding a trip to the Ozarks is best in the summer to avoid severe weather.
