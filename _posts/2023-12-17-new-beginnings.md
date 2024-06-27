@@ -14,4 +14,6 @@ description: Starting out new
 
 # Hello There!
 
-Welcome to my website, where I'll be sharing my thoughts on travel and technology. Here, you'll find stories from my travels, insights into the latest tech trends, and a blend of experiences that shape my world. Join me as I explore the globe, all through the lens of this blog. Let's embark on this exciting adventure together! I'm starting with a new writeup. 
+Welcome to my blog! Here, I combine my love for travel with my interest in computer science. You’ll find stories from my travels and discussions about different computer science topics that intrigue me. Whether exploring new places or computer concepts, this blog is where I share these experiences.
+
+Want to know more about me? Check out the About page to learn about my background and what drives my adventures and studies. Let’s enjoy this journey together!
