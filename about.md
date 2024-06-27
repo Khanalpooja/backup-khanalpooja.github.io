@@ -11,12 +11,12 @@ I'm thrilled you are here! My name is Pooja Khanal, and I hail from the beautifu
 
 ### My Passion for Travel
 
-Travel is not just a hobby for me; it is a profound way of life. The vastness and variety of our planet continually captivates me. Whether I am traversing the majestic Himalayas or discovering the pristine beauty of US national parks, each journey deepens my affection for the world. The serene landscapes and thrilling wildlife encounters have been transformative, each adventure weaving its unique narrative into the tapestry of my life.
+Travel is not just a hobby for me; it is a profound way of life. The vastness and variety of our planet continually captivates me. Whether I am traversing the majestic Himalayas or discovering the pristine beauty of USA's national parks, each journey deepens my affection for the world. The serene landscapes and thrilling wildlife encounters have been transformative, each adventure weaving its unique narrative into the tapestry of my life.
 
 
 ### Why I Write
 
-Welcome to my little space on the internet—a place where my love for technology, travel, and literature comes together. This website is my way of sharing the experiences and insights that have touched my life. I believe that by sharing our stories, we not only revisit our own adventures but also encourage others to begin their own.
+Welcome to my little space on the internet— a place where my love for technology, travel, and literature comes together. This website is my way of sharing the experiences and insights that have touched my life. I believe that by sharing our stories, we not only revisit our own adventures but also encourage others to begin their own.
 
 Whether you're here for insights into the latest tech, to read about far-off places, or to explore different perspectives through stories, I hope you find something that resonates. Let's journey together, discovering new technologies, places, and ideas along the way. 
 

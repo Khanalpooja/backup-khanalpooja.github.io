@@ -4,10 +4,10 @@ title: "Gateway Arch National Park"
 layout: post
 date: 2024-06-27 10:48
 image: /assets/images/gateway_arch.jpg
-headerImage: false
+headerImage: true
 tag:
-- intro
-- beginning
+- travel
+- weekend trips
 category: blog
 author: pooja
 description: Gateway Arch National Park
