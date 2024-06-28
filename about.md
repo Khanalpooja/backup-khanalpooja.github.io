@@ -4,7 +4,6 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-
 ## Hello and Welcome!
 
 I'm thrilled you are here! My name is Pooja Khanal, I live in the United States but I come from the beautiful and diverse country of Nepal. As a Software Engineer, I combine my analytical skills with a deep passion for technology. However, beyond my professional life, I am driven by a profound desire for adventure and exploration—both within and around the world. This website is where I share the experiences and insights that have shaped me. 
