@@ -9,7 +9,7 @@ layout: page
 
 I'm thrilled you are here! My name is Pooja Khanal, I live in the United States but I come from the beautiful and diverse country of Nepal. As a Software Engineer, I combine my analytical skills with a deep passion for technology. However, beyond my professional life, I am driven by a profound desire for adventure and exploration—both within and around the world. This website is where I share the experiences and insights that have shaped me. 
 
-Whether you're here to dive into the latest tech developments, read about remote places, or explore different perspectives through stories, I hope you find something that resonates. Let's journey together, discovering new technologies, places, and ideas along the way. 
+Whether you're here to dive into the tech pursuits, read about remote places, or explore different perspectives through stories, I hope you find something that resonates. Let's journey together, discovering new technologies, places, and ideas along the way. 
 
 ### My Passion for Travel and Writing
 
