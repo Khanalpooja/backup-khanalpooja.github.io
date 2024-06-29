@@ -4,6 +4,7 @@ title: "Gateway Arch National Park"
 layout: post
 date: 2024-06-27 10:48
 image: /assets/images/gateway_arch.jpg
+attribution: "St_Louis_night_expblend.jpg: Daniel Schwenderivative work: ←fetchcomms, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons"
 headerImage: true
 tag:
 - travel
