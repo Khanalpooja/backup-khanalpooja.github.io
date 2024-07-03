@@ -26,7 +26,7 @@ url: https://poojakhanal.com.np
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'G-X3J56B3C1P'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
