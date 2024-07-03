@@ -45,7 +45,7 @@ We indulged in a variety of delicious foods over the weekend:
 - **Gas:** $200 (Carpooled to Missouri, leaving our car in Edwardsville)
 - **Gateway Arch:** $30 for two (No national park pass needed)
 - **Food:** $300 (Included groceries and eating out)
-- **Total:** Approximately $500 for the weekend
+- **Total:** Approximately $500 for the weekend for two people
 
 ## Travel Route
 [Google Maps Route](https://maps.app.goo.gl/G55XeaFKpyRSQZ4x9)
