@@ -59,7 +59,8 @@ This trip, I completey relied on cup noodles with some seasonings and loved the 
 - **Gas:** $300 , California's gas prices are exorbitant 
 - **National Park Pass:** I have the annual America the Beautiful pass, so entry was free. 
 - **Food:** $100 (Cup noodles, Diet Coke, Local Beer and Water)
-- **Total:** Approximately $650 for a single person
+- **Airbnb:** $200 for 2 nights
+- **Total:** Approximately $850 for a single person
 
 ## Travel Route
 Joshua Tree: [Joshua Tree Highlights for day trip](https://www.google.com/maps/d/edit?mid=1wUyNlE3QL37j3TepvBe9oKrSzkdwa6k&usp=sharing) 
