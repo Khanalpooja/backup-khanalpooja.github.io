@@ -85,7 +85,7 @@ This weekend was fueled by delicious and convenient ready-made food from Costco.
 
 ## Travel Route
 
-[Redwoods Highlights for Weekend Trip](https://www.google.com/maps/d/edit?mid=1AgcyBY7BbbssSnbxoQW40KqhoW117kc&usp=sharing)
+<iframe src="https://www.google.com/maps/d/embed?mid=1AgcyBY7BbbssSnbxoQW40KqhoW117kc&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 ## Ease of Visit

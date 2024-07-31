@@ -63,8 +63,13 @@ This trip, I completey relied on cup noodles with some seasonings and loved the 
 - **Total:** Approximately $850 for a single person
 
 ## Travel Route
-Joshua Tree: [Joshua Tree Highlights for day trip](https://www.google.com/maps/d/edit?mid=1wUyNlE3QL37j3TepvBe9oKrSzkdwa6k&usp=sharing) 
-Death Valley: [Death Valley Highlights for day trip](https://www.google.com/maps/d/edit?mid=1-r3feJQjEzdIkAr6_nD0RQUtKMI__yk&usp=sharing)
+### Joshua Tree:
+<iframe src="https://www.google.com/maps/d/embed?mid=1wUyNlE3QL37j3TepvBe9oKrSzkdwa6k&ehbc=2E312F" width="640" height="480"></iframe>
+
+### Death Valley: 
+<iframe src="https://www.google.com/maps/d/embed?mid=1-r3feJQjEzdIkAr6_nD0RQUtKMI__yk&ehbc=2E312F" width="640" height="480"></iframe>
+
+
 Including to and from the airbnbs,  
 
 Day 1: 3 hours 
