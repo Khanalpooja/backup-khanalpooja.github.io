@@ -87,7 +87,7 @@ We explored the unique geological formations and different cactus species. Did y
 Took in panoramic views of the desert landscape.
 
 <div class="image-caption">
-  <img src="/assets/images/bbnp/mule-ear-2.jpg" alt="Mule's Ear">
+  <img src="/assets/images/bbnp/mule-ear-2.JPG" alt="Mule's Ear">
   <figcaption>
     Mule's Ear Viewpoint
   </figcaption>
