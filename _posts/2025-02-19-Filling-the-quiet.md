@@ -25,10 +25,17 @@ I  have a neighbor in his early 70s. His back is slightly bent when he walks as 
 
 Later, he stands in his front yard with a few of his peers, their words are drifting through the cold air in hushed tones. I can’t quite make out their conversation from the inside of the building, but I imagine it weaves between the past and present, and also the quiet rhythm of everyday life.
 
-Whenever the mailman mistakenly delivers my package to his address, he takes the trouble to place it at my doorstep. I appreciate it, yet I’ve never said it out loud. Should I? Would a thank-you card be a thoughtful gesture, or would it feel unnecessary to him. Would it be just another piece of paper in a life that moves forward without expectation? 
+Whenever the mailman mistakenly delivers my package to his address, he takes the trouble to place it at my doorstep. I appreciate it, yet I’ve never said it out loud. Should I? Would a thank-you card be a thoughtful gesture, or would it feel unnecessary to him? Would it be just another piece of paper in a life that moves forward without expectation? 
 
 His television is always on. Even when he is outside, the light of the screen flares through his windows, and the loud sound seeps out a bit. Is it just a habit, or is it a lack of company? Is it a way to fill the silence of a house that no longer echoes with familiar voices? Or maybe, it’s nothing that deep - just a background noise, something he never thinks to turn off because it doesn’t bother him? 
 These days, I also hear his angry voice over the phone which cuts through the usual quiet. His words are muffled, but I understand the frustrating tone. I wonder who is he talking to? Someone important? Someone from his past? And why is he angry? Is it something with his life right now, or a deep wound from his past?  Should I be concerned or is it how he is? 
+
+<div class="image-caption">
+  <img src="/assets/images/alone.jpg" alt="staring at the sunset alone">
+  <!-- <figcaption>
+    Staring at the sunset alone
+  </figcaption> -->
+</div>
 
 His son lives in the same neighborhood by himself. I often hear them talking and spending holidays together but I wonder why and how they are by themselves and not together. Is it a cultural thing I’m yet to understand or some reasons that’s universal? He talked about his wife once in a fleeting conversation, which made me wonder what happened to her? Was theirs a love that slowly faded away, ending them to exist separately in the same world, connected only by a phase of life? Or was it fate that took her away, leaving him without the chance to say goodbye?
 
