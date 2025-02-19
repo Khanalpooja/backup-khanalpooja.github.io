@@ -1,10 +1,10 @@
 ---
 
-title: "Filling the Quiet"
+title: "Filing the Quiet"
 layout: post
 date: 2025-02-19 10:48
 image: /assets/images/sidewalk.jpeg
-attribution: "By specchio.nero - Death Valley dunes, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=46346048"
+attribution: "By @the.poortourist"
 headerImage: true
 tag:
 - everydaylife
@@ -12,7 +12,7 @@ tag:
   
 category: blog
 author: pooja
-description: Filling the Quiet
+description: Filing the Quiet
 ---
 
 
