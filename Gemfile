@@ -6,6 +6,7 @@ group :jekyll_plugins do
     gem 'jekyll-gist'
     gem 'jekyll-seo-tag'
     gem 'jemoji'
+    gem "jekyll-sass-converter", "1.5.2"
 end
 
 gem "webrick"

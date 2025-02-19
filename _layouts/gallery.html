@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<!-- {{ page | jsonify }} -->
+<div class="gallery-container">
+  <h1>{{ page.title }}</h1>
+  <div class="gallery">
+
+  {% for image in site.static_files %}
+    {% if image.path contains page.image_folder %}
+      <!-- <p>Match Found: {{ image.path }}</p> -->
+      <div class="gallery-item">
+        <img src="{{ image.path | relative_url }}" alt="{{ image.name }}">
+      </div>
+    {% endif %}
+  {% endfor %}
+
+
+
+
+  </div>
+</div>
+
+<style>
+  .gallery-container {
+    text-align: center;
+  }
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .gallery-item {
+    margin: 5px;
+  }
+  .gallery-item img {
+    max-width: 200px;
+    height: auto;
+  }
+</style>
