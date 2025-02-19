@@ -87,6 +87,10 @@ This weekend was fueled by delicious and convenient ready-made food from Costco.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1AgcyBY7BbbssSnbxoQW40KqhoW117kc&ehbc=2E312F" width="640" height="480"></iframe>
 
+## Gallery
+[Redwoods Gallery]({{'/galleries/gallery_redwoods/index.html'|relative_url}})
+
+
 
 ## Ease of Visit
 We didn’t need any reservations, and the park was accessible for the most part.
