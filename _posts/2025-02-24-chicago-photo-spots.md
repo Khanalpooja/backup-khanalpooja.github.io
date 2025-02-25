@@ -21,7 +21,18 @@ Whether you're here for a day or have been around for a while, grab a friend, or
 
 Here is my list so far. Don’t forget to enjoy the stroll while you navigate to these places. 
 
-### 1. **The Bean**  
+
+### 1. **Chicago Theater**  
+
+
+<div class="image-caption portrait">
+  <img src="/assets/images/chicago/chicago_theater.JPG" alt="chicago">
+  <figcaption>
+    This theater screams Chicago 
+  </figcaption>
+</div>
+
+### 2. **The Bean**  
 
 <div class="image-caption">
   <img src="/assets/images/chicago/bean.jpg" alt="chicago">
@@ -47,11 +58,11 @@ Here is my list so far. Don’t forget to enjoy the stroll while you navigate to
 
 
 
-### 2. **Wings of Mexico (Wings of Freedom)**  
+### 3. **Wings of Mexico (Wings of Freedom)**  
 Stand in front of these artistic wings for an epic shot. Who doesn't like flying?
 
 <div class="image-caption">
-  <img src="/assets/images/chicago/wings.jpg" alt="chicago">
+  <img src="/assets/images/chicago/wings.JPG" alt="chicago">
   <figcaption>
     Wings of Mexico
   </figcaption>
@@ -59,7 +70,7 @@ Stand in front of these artistic wings for an epic shot. Who doesn't like flying
 
 
 
-### 3. **Buckingham Fountain**  
+### 4. **Buckingham Fountain**  
 
 
 <div class="image-caption portrait">
@@ -78,15 +89,7 @@ Stand in front of these artistic wings for an epic shot. Who doesn't like flying
 </div>
 
 
-### 4. **Chicago Theater**  
 
-
-<div class="image-caption portrait">
-  <img src="/assets/images/chicago/chicago_theater.jpg" alt="chicago">
-  <figcaption>
-    This theater screams Chicago 
-  </figcaption>
-</div>
 
 ### 5. **Linoln Park Zoo**  
 
@@ -132,7 +135,7 @@ Riverwalk is 1.25 mile and is looks pretty wherever you click the picture.
 
 If you do the archiecture tour, you can not only get great pictures of buildings but yourselves as well. 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/boat_tour_3.jpg" alt="chicago">
+  <img src="/assets/images/chicago/boat_tour_3.JPG" alt="chicago">
   <figcaption>
     The night light reflected on me 
   </figcaption>
@@ -152,14 +155,14 @@ My top pick? DuSable Bridge. The view here is unbeatable— Chicago’s skyline,
 Right after the bridge, as you head down to the Riverwalk, you’ll find even more great spots. Chicago’s many bridges all make stunning photo backdrops. Find your favorite and strike a pose!
 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/near_riverwalk_2.jpg" alt="chicago">
+  <img src="/assets/images/chicago/near_riverwalk_2.JPG" alt="chicago">
   <figcaption>
     The river does enhance the city's beauty 
   </figcaption>
 </div>
 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/couple_near_riverwalk.jpg" alt="chicago">
+  <img src="/assets/images/chicago/couple_near_riverwalk.JPG" alt="chicago">
   <figcaption>
     Couple photo idea 
   </figcaption>
@@ -167,14 +170,14 @@ Right after the bridge, as you head down to the Riverwalk, you’ll find even mo
 
 
 <div class="image-caption">
-  <img src="/assets/images/chicago/bridge_night.jpg" alt="chicago">
+  <img src="/assets/images/chicago/bridge_night.JPG" alt="chicago">
   <figcaption>
     Chicago is a beauty at night
   </figcaption>
 </div>
 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/bridge_night_cap.jpg" alt="chicago">
+  <img src="/assets/images/chicago/bridge_night_cap.JPG" alt="chicago">
   <figcaption>
      Best Momemts are captured at golden hour 
   </figcaption>
