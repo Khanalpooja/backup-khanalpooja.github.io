@@ -26,7 +26,7 @@ Here is my list so far. Don’t forget to enjoy the stroll while you navigate to
 
 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/chicago_theater.JPG" alt="chicago">
+  <img src="/assets/images/chicago/chicago_theater.jpg" alt="chicago">
   <figcaption>
     This theater screams Chicago 
   </figcaption>
@@ -62,7 +62,7 @@ Here is my list so far. Don’t forget to enjoy the stroll while you navigate to
 Stand in front of these artistic wings for an epic shot. Who doesn't like flying?
 
 <div class="image-caption">
-  <img src="/assets/images/chicago/wings.JPG" alt="chicago">
+  <img src="/assets/images/chicago/wings.jpg" alt="chicago">
   <figcaption>
     Wings of Mexico
   </figcaption>
@@ -135,7 +135,7 @@ Riverwalk is 1.25 mile and is looks pretty wherever you click the picture.
 
 If you do the archiecture tour, you can not only get great pictures of buildings but yourselves as well. 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/boat_tour_3.JPG" alt="chicago">
+  <img src="/assets/images/chicago/boat_tour_3.jpg" alt="chicago">
   <figcaption>
     The night light reflected on me 
   </figcaption>
@@ -155,14 +155,14 @@ My top pick? DuSable Bridge. The view here is unbeatable— Chicago’s skyline,
 Right after the bridge, as you head down to the Riverwalk, you’ll find even more great spots. Chicago’s many bridges all make stunning photo backdrops. Find your favorite and strike a pose!
 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/near_riverwalk_2.JPG" alt="chicago">
+  <img src="/assets/images/chicago/near_riverwalk_2.jpg" alt="chicago">
   <figcaption>
     The river does enhance the city's beauty 
   </figcaption>
 </div>
 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/couple_near_riverwalk.JPG" alt="chicago">
+  <img src="/assets/images/chicago/couple_near_riverwalk.jpg" alt="chicago">
   <figcaption>
     Couple photo idea 
   </figcaption>
@@ -170,14 +170,14 @@ Right after the bridge, as you head down to the Riverwalk, you’ll find even mo
 
 
 <div class="image-caption">
-  <img src="/assets/images/chicago/bridge_night.JPG" alt="chicago">
+  <img src="/assets/images/chicago/bridge_night.jpg" alt="chicago">
   <figcaption>
     Chicago is a beauty at night
   </figcaption>
 </div>
 
 <div class="image-caption portrait">
-  <img src="/assets/images/chicago/bridge_night_cap.JPG" alt="chicago">
+  <img src="/assets/images/chicago/bridge_night_cap.jpg" alt="chicago">
   <figcaption>
      Best Momemts are captured at golden hour 
   </figcaption>
